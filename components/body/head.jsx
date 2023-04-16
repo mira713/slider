@@ -6,7 +6,6 @@ import {
   Flex,
 } from "@chakra-ui/react";
 import style from "./body.module.css";
-import Body from "./body"
 
 const Companies = () => {
 
@@ -65,7 +64,6 @@ const Companies = () => {
           w="70"
         />
       </Flex>
-      <Body />
     </div>
   );
 };
